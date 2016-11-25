@@ -33,6 +33,11 @@
 									<p>Les captures PvP sont le mardi de 18h à 18h30 et le vendredi de 21h à 21h30, le mode de capture PvP actuellement en place sur le serveur est "Capture de Drapeau" (CDF).<br />
 									Pour capturer une zone Pvp il faudra vous munir d'un drapeau que vous pourrez préalablement acheter auprès des Coachs, vendeur Sexshop ou encore Mercenaires. <br />
 									<br />
+									<div class="row">
+										<div class="col-md-3">
+											<span rp-item-information="27"></span>
+										</div>
+									</div>
 									Drapeaux en poche, il ne vous restera plus qu'à vous en équiper en dehors de la PvP,<br />
 									pour ensuite aller tenter de le déposer sur la base ennemie.<br />
 									Attention toutefois, vous ne serez pas seul ! pour participer aux captures PvP il vous faudra obligatoirement appartenir à un gang !<br />
